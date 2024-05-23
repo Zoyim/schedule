@@ -1,0 +1,76 @@
+[
+  {
+    "jour": "Lundi",
+    "cours": [
+      {
+        "titre": "Programmation Web",
+        "heure": "8h00 - 12h00",
+        "salle": "Salle A105",
+        "professeur": "Prof. John Doe",
+        "type": "theorie"
+      }
+    ]
+  },
+  {
+    "jour": "Mardi",
+    "cours": [
+      {
+        "titre": "Programmation Web",
+        "heure": "8h00 - 12h00",
+        "salle": "Salle A105",
+        "professeur": "Prof. John Doe",
+        "type": "theorie"
+      }
+    ]
+  },
+  {
+    "jour": "Jeudi",
+    "cours": [
+      {
+        "titre": "Travaux Pratiques",
+        "heure": "8h00 - 12h00",
+        "salle": "Salle B201",
+        "professeur": "Prof. Jane Smith",
+        "type": "pratique"
+      },
+      {
+        "titre": "Algorithmique",
+        "heure": "13h00 - 17h00",
+        "salle": "Salle D205",
+        "professeur": "Prof. Alice Williams",
+        "type": "theorie"
+      }
+    ]
+  },
+  {
+    "jour": "Vendredi",
+    "cours": [
+      {
+        "titre": "Programmation Web",
+        "heure": "8h00 - 12h00",
+        "salle": "Salle A105",
+        "professeur": "Prof. John Doe",
+        "type": "theorie"
+      }
+    ]
+  },
+  {
+    "jour": "Mercredi",
+    "cours": [
+      {
+        "titre": "Apprendre Docker",
+        "heure": "14:00 - 17:00",
+        "salle": "Salle 023",
+        "professeur": "Loti Abdou Zoyim",
+        "type": "theorie"
+      },
+      {
+        "titre": "TP Docker",
+        "heure": "18:30 - 19:00",
+        "salle": "Salle 023",
+        "professeur": "Loti Abdou Zoyim",
+        "type": "pratique"
+      }
+    ]
+  }
+]
